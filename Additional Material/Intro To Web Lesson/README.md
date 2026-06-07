@@ -1,2 +1,0 @@
-# Thursday-Class
-Class Backup
