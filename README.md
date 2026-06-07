@@ -238,6 +238,8 @@ Sayki17
 Kyle-Geronimo
 2h8ste
 
+
+https://discord.gg/kTVHXp73Rq
 ---
 
 ## 📝 License
