@@ -234,9 +234,7 @@ The **DTC Cluster** is an on-premise computing cluster built from **7 physical P
 
 ## 🤝 Members:
 
-Sayki17
-Kyle-Geronimo
-2h8ste
+Sayki17 | Kyle-Geronimo | 2h8ste | -
 
 
 https://discord.gg/kTVHXp73Rq
