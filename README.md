@@ -232,13 +232,11 @@ The **DTC Cluster** is an on-premise computing cluster built from **7 physical P
 
 ---
 
-## 🤝 Contributing (All Projects)
+## 🤝 Members:
 
-For any of the projects above:
-1. Create a new branch for your feature or fix
-2. Make changes and test thoroughly
-3. Update relevant documentation
-4. Submit a pull request with a clear description
+Sayki17
+Kyle-Geronimo
+2h8ste
 
 ---
 
